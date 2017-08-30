@@ -1,6 +1,6 @@
 {
   "name": "advance-table",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An advanced angular data table",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,12 @@
     "url": "git+https://github.com/theprowaseem/ng-table.git"
   },
   "keywords": [
-    "angular"
+    "angular",
+    "angular 4",
+    "angular 2",
+    "datatables",
+    "bootstrap",
+    "angular material"
   ],
   "author": "Muhammad Waseem <theprowaseem@gmail.com>",
   "license": "MIT",
