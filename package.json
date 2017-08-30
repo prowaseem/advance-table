@@ -1,0 +1,22 @@
+{
+  "name": "advance-table",
+  "version": "1.0.0",
+  "description": "An advanced angular data table",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theprowaseem/ng-table.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "Muhammad Waseem <theprowaseem@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theprowaseem/ng-table/issues"
+  },
+  "homepage": "https://github.com/theprowaseem/ng-table#readme"
+}
