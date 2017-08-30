@@ -14,7 +14,6 @@ npm install ng-table --save
 
 * **Muhammad Waseem Irshad** - [Github](https://github.com/prowaseem)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
