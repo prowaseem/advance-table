@@ -7,7 +7,7 @@ Angular 4 datatable with features like sorting, filtering, responsiveness
 Simply install it with npm
 
 ```
-npm install ng-table --save
+npm install advance-table --save
 ```
 
 ## Authors
