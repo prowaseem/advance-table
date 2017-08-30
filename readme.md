@@ -1,6 +1,6 @@
 # Angular Datatable
 
-Angular 4 dattable with features like sorting, filtering, responsiveness
+Angular 4 datatable with features like sorting, filtering, responsiveness
 
 ## Getting Started
 
